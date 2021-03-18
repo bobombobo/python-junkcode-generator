@@ -6,3 +6,7 @@ This idea was orignally from csgo cheat junk code to make the cheat undetected b
 Image of junk code generated:
 
 ![junkgencapture](https://github.com/bobombobo/python-junkcode-generator/blob/main/junkgencapture.PNG)
+
+
+# Please don't crack this btw
+I know this is a very minimal project but it is the first thing ive ever made and id appericate it if you didn't crack it.
