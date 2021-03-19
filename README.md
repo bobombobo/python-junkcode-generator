@@ -8,7 +8,7 @@ Image of junk code generated (outdated v0.0.1):
 ![junkgencapture](https://github.com/bobombobo/python-junkcode-generator/blob/main/junkgencapture.PNG)
 
 
-# Feature list (v0.0.2:
+# Feature list (v0.0.2):
 Never fail code
 
 Quick generation
