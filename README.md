@@ -10,11 +10,17 @@ Image of junk code generated (outdated v0.0.1):
 
 # Feature list (v0.0.2:
 Never fail code
+
 Quick generation
+
 if, else, and def statments everytime
+
 Random characters
+
 Easy to hide code inside these large blocks
+
 Fake real code inside to throw humans off
+
   (Some fake code generated from different langauges (java(system.out) and bat (goto))
 
 
